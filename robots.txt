@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://faizan00parvez.github.io/greet-degree-college/sitemap.xml
+Sitemap: https://www.greeteveningdegreecollege.in/sitemap.xml
