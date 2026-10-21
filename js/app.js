@@ -1,11 +1,11 @@
 /* Greet Evening Degree College — menu, dropdowns, reveals
-   SITE_URL: https://faizan00parvez.github.io/greet-degree-college/
+   SITE_URL: https://www.greeteveningdegreecollege.in/
    Update this constant AND the SITE_URL HTML comment in each page's <head>
    if a custom domain ever goes live. */
 (function () {
   "use strict";
 
-  var SITE_URL = "https://faizan00parvez.github.io/greet-degree-college/";
+  var SITE_URL = "https://www.greeteveningdegreecollege.in/";
 
   /* ---------- mobile menu ---------- */
   var toggle = document.getElementById("menuToggle");
